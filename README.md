@@ -6,8 +6,6 @@ This is a simple and user-friendly **Online Library** built using **React.js** a
 
 Here is how the Online library looks:
 
-Deploy:
-
 Repo link:https://github.com/upadhyayji2811/Online_Library_System.git
 
 ## Features
